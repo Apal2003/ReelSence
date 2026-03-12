@@ -1,7 +1,4 @@
-# ReelSence
-Explainable Movie Recommender System
-
-Explainable Movie Recommender System
+# ReelSense: Explainable Movie Recommender System
 
 ## 🚀 **LIVE DEPLOYMENT**
 ### 🔗 https://reelsence-pxke7qkuw7syx4yrkddibw.streamlit.app/ 
